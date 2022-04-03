@@ -61,8 +61,8 @@ nav ul li a:hover{
 .content{
 	position: absolute;
 	top: 50%;
-	left: 8%;
-	transform: translateX(90%);
+	right: 8%;
+	transform: translateY(-50%);
 }
 h1{
 	color: white;
