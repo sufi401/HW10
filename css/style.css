@@ -62,7 +62,7 @@ nav ul li a:hover{
 	position: absolute;
 	top: 50%;
 	left: 8%;
-	transform: translateX(110%);
+	transform: translateX(90%);
 }
 h1{
 	color: white;
