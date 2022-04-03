@@ -269,3 +269,8 @@ animation-duration: forward;
 .end{background-color: #191919; text-align: center; color: azure;}
 
 
+@media (max-width: 700px;){
+
+	.card{width: 100%; display: flex;}
+
+}
