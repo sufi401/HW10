@@ -4,6 +4,7 @@
 	font-family: 'Josefin Sans', sans-serif;
 	box-sizing: border-box;
 }
+body{width: 100%;}
 
 /*---hero---*/
 .hero{
